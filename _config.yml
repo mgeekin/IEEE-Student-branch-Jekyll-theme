@@ -41,4 +41,4 @@ plugins:
 #   - vendor/ruby/
 topmenu: [true]
 submenu: [Chapters, Workshops, Activities]
-assets: https://raw.githubusercontent.com/mgeekin/IEEE-Students-Branch-Jekyll-Theme/master/assets/
+assets: https://raw.githubusercontent.com/mgeekin/ieee-students-branch-jekyll-theme/master/assets/
