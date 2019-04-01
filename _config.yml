@@ -43,3 +43,4 @@ permalink: /:path/:title/
 topmenu: [true]
 submenu: [Chapters, Workshops, Activities]
 assets: https://raw.githubusercontent.com/mgeekin/ieee-students-branch-jekyll-theme/master/assets/
+themeassets: https://raw.githubusercontent.com/mgeekin/ieee-students-branch-jekyll-theme/master/assets/
