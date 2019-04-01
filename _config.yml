@@ -16,7 +16,7 @@
 title: IEEE Students Branch Jekyll Theme
 email: prateekrajgautam@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Student Branch Code: STB08071. School Code: theme designed by Prateek Raj Gautam 
+  Theme designed by Prateek Raj Gautam 
 baseurl: "/ieee-students-branch-jekyll-theme" # the subpath of your site, e.g. /blog
 url: "https://mgeekin.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: prateekrgautam
